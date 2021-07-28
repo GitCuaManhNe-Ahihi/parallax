@@ -106,14 +106,14 @@ section img{
     color: #fff;
     right: -350px;
 }
-.sec
+#sec
 {
     position: relative;
     padding: 100px;
     background: #1c0522;
     color: #fff;
 }
-.sec h2
+#sec h2
 {font-weight: 500;
     font-size: 2em;
     padding: 10px 0px;
